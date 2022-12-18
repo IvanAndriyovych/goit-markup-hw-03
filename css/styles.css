@@ -7,14 +7,14 @@ body {background-color: #FFFFFF;}
 
 /*header*/
 
-.Logo {color: #4D5AE5;
+.logo {color: #4D5AE5;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;;
     }
 
-.Logo1 {color: #2E2F42;
+.logo-one {color: #2E2F42;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -230,8 +230,8 @@ letter-spacing: 0.02em;
     background: #2E2F42;
     width: 1440px;
     height: 603px;
-left: 0px;
-top: 72px;
+    left: 0px;
+    top: 72px;
 }
 .title-main {
     color: #FFFFFF;
@@ -241,11 +241,16 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 
 }
-.button-main {
+.order {
    
     background-color: #4D5AE5;
 
     color: #FFFFFF;
+
+    font-weight: 600;
+font-size: 16px;
+line-height: 1.18;
+letter-spacing: 0.04em;
    
 }
 .description {
@@ -278,15 +283,33 @@ letter-spacing: 0.02em;
 .type-title {
 }
 
-.second2 {
+.seconds {
     background: #F4F4FD ;
 }
-.title-second2 {
+.title-seconds {
     color: #2E2F42;
     font-weight: 600;
 font-size: 36px;
-line-height: 40px;
-letter-spacing: 1.11em;
+line-height: 1.11;
+letter-spacing: 0.02em;
+}
+.type-title-seconds2 {
+
+}
+
+.tape-description {
+    color: #2E2F42;
+    font-weight: 600;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+.description-text-two {
+    color: #434455;
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .type-title-second2 {
 }
