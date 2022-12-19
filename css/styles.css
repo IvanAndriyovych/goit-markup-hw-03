@@ -42,7 +42,7 @@ letter-spacing: 0.02em;
 }
 
 .mail { color: #434455;
-    font-weight: 400;
+    
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -50,7 +50,7 @@ letter-spacing: 0.02em;
 }
 
 .tel {color: #434455;
-    font-weight: 400;
+    
 font-size: 16px;
 line-height: 1.5px;
 letter-spacing: 0.02em;
@@ -71,7 +71,7 @@ letter-spacing: 0.04em;
 
 }
 
-.link-1-portfolio {
+.link-one-portfolio {
    
 }
 
@@ -125,7 +125,6 @@ letter-spacing: 0.02em;
 }
 .type-portfolio-text {
     color: #434455;
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -139,9 +138,9 @@ letter-spacing: 0.02em;
     background: #2E2F42
        
 }
-.Logo {
+.logo {
 }
-.Logo2 {
+.logo-two {
     color: #F4F4FD;
     font-weight: 800;
 font-size: 18px;
@@ -150,7 +149,6 @@ letter-spacing: 0.03em;
 }
 .type-portfolio-text1 {
     color: #E7E9FC;
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.6;
 letter-spacing: 0.02em;
@@ -174,7 +172,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.03em;;
     }
 
-.logo-main1 {color: #2E2F42;
+.logo-main-one {color: #2E2F42;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -187,30 +185,30 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.02em;}
 
- .Portfolio1 { color: #2E2F42;
+ .portfolio-one { color: #2E2F42;
     font-weight: 600;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
 
-.Contacts1 { color: #2E2F42;
+.contacts-one { color: #2E2F42;
     font-weight: 600;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.mail1 { color: #434455;
-    font-weight: 400;
+.mail-one { color: #434455;
+   
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 
 }
 
-.tel1 {color: #434455;
-    font-weight: 400;
+.tel-one {color: #434455;
+    
 font-size: 16px;
 line-height: 1.5px;
 letter-spacing: 0.02em;
@@ -293,7 +291,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 }
-.type-title-seconds2 {
+.type-title-seconds {
 
 }
 
@@ -311,7 +309,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.type-title-second2 {
+.type-title-second {
 }
 
 
@@ -322,17 +320,14 @@ letter-spacing: 0.02em;
 
 .footer-main-page {
     background-color: #2E2F42;
-    width: 1440px;
-height: 310px;
 left: 0px;
 top: 2283px;
 
 }
 
-.Logo {
+.logo {
     color: #4D5AE5;
-    width: 44px;
-height: 22px;
+   
 font-weight: 800;
 font-size: 18px;
 line-height: 1.16;
@@ -340,14 +335,14 @@ line-height: 1.16;
 letter-spacing: 0.03em;
 
 }
-.Logo2 {
+.logo-two {
 color: #F4F4FD;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
 }
-.type-main-text1 {
+.type-main-text {
     color: #E7E9FC;
  
 font-weight: 400;
