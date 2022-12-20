@@ -1,4 +1,7 @@
-body {background-color: #FFFFFF;}
+body {background-color: #FFFFFF;
+    
+font-family: 'Roboto', sans-serif;
+}
 
 .list {list-style: none;}
 
@@ -12,6 +15,7 @@ body {background-color: #FFFFFF;}
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;;
+    font-family: 'Raleway', sans-serif;
     }
 
 .logo-one {color: #2E2F42;
@@ -19,6 +23,7 @@ body {background-color: #FFFFFF;}
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
+    font-family: 'Raleway', sans-serif;
 }
 
 .studio { color: #2E2F42;
@@ -139,6 +144,7 @@ letter-spacing: 0.02em;
        
 }
 .logo {
+    font-family: 'Raleway', sans-serif;
 }
 .logo-two {
     color: #F4F4FD;
@@ -146,6 +152,7 @@ letter-spacing: 0.02em;
 font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
+font-family: 'Raleway', sans-serif;
 }
 .type-portfolio-text1 {
     color: #E7E9FC;
@@ -154,7 +161,10 @@ line-height: 1.6;
 letter-spacing: 0.02em;
 }
 
-.body-main {}
+.body-main {
+  
+font-family: 'Roboto', sans-serif;
+}
 
 .list {list-style: none;}
 
@@ -169,7 +179,8 @@ letter-spacing: 0.02em;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
-    letter-spacing: 0.03em;;
+    letter-spacing: 0.03em;
+    font-family: 'Raleway', sans-serif;
     }
 
 .logo-main-one {color: #2E2F42;
@@ -177,6 +188,7 @@ letter-spacing: 0.02em;
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
+    font-family: 'Raleway', sans-serif;
 }
 
 .studio1 { color: #2E2F42;
@@ -304,7 +316,6 @@ letter-spacing: 0.02em;
 }
 .description-text-two {
     color: #434455;
-    font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -333,6 +344,7 @@ font-size: 18px;
 line-height: 1.16;
 
 letter-spacing: 0.03em;
+font-family: 'Raleway', sans-serif;
 
 }
 .logo-two {
@@ -341,11 +353,11 @@ font-weight: 800;
 font-size: 18px;
 line-height: 1.16;
 letter-spacing: 0.03em;
+font-family: 'Raleway', sans-serif;
 }
 .type-main-text {
     color: #E7E9FC;
  
-font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
